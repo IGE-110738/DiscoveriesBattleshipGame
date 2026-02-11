@@ -7,7 +7,7 @@
 
 | Nº | Nome | GitHub |
 |---:|------|--------|
-| [110738] | [Nicholas Lobato] | IGE-110738 |
+| 110738 | Nicholas Lobato | IGE-110738 |
 | [XXXXX] | [Nome Apelido] | IGE-[XXXXX] |
 | [XXXXX] | [Nome Apelido] | IGE-[XXXXX] |
 | [XXXXX] | [Nome Apelido] | IGE-[XXXXX] |
