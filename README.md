@@ -1,6 +1,6 @@
 # Discoveries Battleship Game
 
-**Grupo:** Brainrotters  
+**Grupo:** BrainRotters  
 **Curso:** IGE / IGE-PL (2025/2026)
 
 ## Membros
@@ -8,7 +8,7 @@
 | Nº | Nome | GitHub |
 |---:|------|--------|
 | 110738 | Nicholas Lobato | IGE-110738 |
-| [XXXXX] | [Nome Apelido] | IGE-[XXXXX] |
+| 122483 | Eduardo Fragoso | IGE-122483 |
 | [XXXXX] | [Nome Apelido] | IGE-[XXXXX] |
 | [XXXXX] | [Nome Apelido] | IGE-[XXXXX] |
 
