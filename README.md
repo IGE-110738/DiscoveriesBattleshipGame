@@ -1,6 +1,6 @@
 # Discoveries Battleship Game
 
-**Grupo:** [Brainrotters]  
+**Grupo:** Brainrotters  
 **Curso:** IGE / IGE-PL (2025/2026)
 
 ## Membros
