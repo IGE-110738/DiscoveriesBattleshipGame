@@ -10,7 +10,7 @@
 | 110738 | Nicholas Lobato | IGE-110738 |
 | 122483 | Eduardo Fragoso | IGE-122483 |
 | 122464 | Guilherme Joaquim | IGE-122464 |
-| [XXXXX] | [Nome Apelido] | IGE-[XXXXX] |
+| 122471 | Filipe Santos | IGE-122471 |
 
 ## Navios (versão Descobrimentos)
 
