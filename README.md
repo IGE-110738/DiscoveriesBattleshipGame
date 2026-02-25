@@ -30,3 +30,6 @@
 4. Em cada turno, o jogador atira **3 tiros**, indicando coordenadas (linha, coluna).
 5. O adversário responde com o resultado (água / acerto / navio afundado e tipo).
 6. Ganha quem afundar primeiro todos os navios do adversário.
+
+## Contribuição
+Atualização realizada no branch fragoso.
